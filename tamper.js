@@ -4,7 +4,7 @@
 // @version      2.0
 // @description  Desencriptar un codigo cifrado
 // @author       Marcos Fantóval C.
-// @match        https://raw.githubusercontent.com/MarcosFantoval2/Criptografia/main/Tarea3/pagina.html
+// @match        https://marcosfantoval2.github.io/CriptoT3/
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js
 // ==/UserScript==
